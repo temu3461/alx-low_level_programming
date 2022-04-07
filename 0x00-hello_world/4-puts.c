@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-*the comment file
+*main - entry point
 *
-*return : 0 after printing 
+*Return: 0 after printing the function 
    */
 int main(void)
 {
