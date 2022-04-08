@@ -1,10 +1,9 @@
 #include <stdio.h>
  /**
-     *main - entry point
-     *
-     *Return : 0 after success function
-     *
-     */
+  * main - entry point
+  *
+  *Return: 0 after success function
+  */
 
 int main(void)
 {
