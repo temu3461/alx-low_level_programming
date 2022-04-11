@@ -4,7 +4,7 @@
 /**
   *main - entry point
   *
-  *Return : 0 printing the function
+  *Return : 0 after compilation
   *
   */
 int main(void)
