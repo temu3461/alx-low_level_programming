@@ -2,11 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-	*main - entry of the code
-	*
-  	*Return - 0 after code success
-	*
- 	*/ 
+  *main - entry point
+  *
+  *Return - 0 printing the function
+  *
+  */
 int main(void)
 {
 	int n;
