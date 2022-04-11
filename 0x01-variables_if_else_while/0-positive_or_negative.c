@@ -4,7 +4,7 @@
 /**
   *main - entry point
   *
-  *Return - 0 printing the function
+  *Return : 0 printing the function
   *
   */
 int main(void)
@@ -24,6 +24,6 @@ int main(void)
 	if (n == 0)
 	{
 	printf("%d is zero\n", n);
-	}	
+	}
 	return (0);
 }
