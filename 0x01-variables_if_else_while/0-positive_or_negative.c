@@ -2,12 +2,12 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-  * main - entry of the code 
+  * main - entry of the code
   *
   * Return - 0 after code success
   *
   */
-
+ 
 int main(void)
 {
 	int n;
