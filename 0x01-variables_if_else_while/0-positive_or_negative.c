@@ -4,7 +4,8 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
-/*main - entry of the code */
+
+/* main - entry of the code */
 int main(void)
 {
 	int n;
